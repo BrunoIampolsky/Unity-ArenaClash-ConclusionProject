@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: d1487c5039993cb4b90ec621a1062b5c
+timeCreated: 1503399766
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MAPA1_mergedObject
+    100004: MAPA2_mergedObject
+    100006: MAPA2_mergedObject_MeshPart0
+    100008: MAPA2_mergedObject_MeshPart1
+    100010: MAPA2_mergedObject_MeshPart2
+    100012: MAPA2_mergedObject_MeshPart3
+    100014: MAPA2_mergedObject_MeshPart4
+    100016: MAPA2_mergedObject_MeshPart5
+    100018: MAPA2_mergedObject_MeshPart6
+    100020: MAPA2_mergedObject_MeshPart7
+    100022: MAPA3_mergedObject
+    400000: //RootNode
+    400002: MAPA1_mergedObject
+    400004: MAPA2_mergedObject
+    400006: MAPA2_mergedObject_MeshPart0
+    400008: MAPA2_mergedObject_MeshPart1
+    400010: MAPA2_mergedObject_MeshPart2
+    400012: MAPA2_mergedObject_MeshPart3
+    400014: MAPA2_mergedObject_MeshPart4
+    400016: MAPA2_mergedObject_MeshPart5
+    400018: MAPA2_mergedObject_MeshPart6
+    400020: MAPA2_mergedObject_MeshPart7
+    400022: MAPA3_mergedObject
+    2300000: MAPA1_mergedObject
+    2300002: MAPA2_mergedObject_MeshPart0
+    2300004: MAPA2_mergedObject_MeshPart1
+    2300006: MAPA2_mergedObject_MeshPart2
+    2300008: MAPA2_mergedObject_MeshPart3
+    2300010: MAPA2_mergedObject_MeshPart4
+    2300012: MAPA2_mergedObject_MeshPart5
+    2300014: MAPA2_mergedObject_MeshPart6
+    2300016: MAPA2_mergedObject_MeshPart7
+    2300018: MAPA3_mergedObject
+    3300000: MAPA1_mergedObject
+    3300002: MAPA2_mergedObject_MeshPart0
+    3300004: MAPA2_mergedObject_MeshPart1
+    3300006: MAPA2_mergedObject_MeshPart2
+    3300008: MAPA2_mergedObject_MeshPart3
+    3300010: MAPA2_mergedObject_MeshPart4
+    3300012: MAPA2_mergedObject_MeshPart5
+    3300014: MAPA2_mergedObject_MeshPart6
+    3300016: MAPA2_mergedObject_MeshPart7
+    3300018: MAPA3_mergedObject
+    4300000: MAPA3_mergedObject
+    4300002: MAPA2_mergedObject_MeshPart0
+    4300004: MAPA2_mergedObject_MeshPart1
+    4300006: MAPA2_mergedObject_MeshPart2
+    4300008: MAPA2_mergedObject_MeshPart3
+    4300010: MAPA2_mergedObject_MeshPart4
+    4300012: MAPA2_mergedObject_MeshPart5
+    4300014: MAPA2_mergedObject_MeshPart6
+    4300016: MAPA2_mergedObject_MeshPart7
+    4300018: MAPA1_mergedObject
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
